@@ -4,7 +4,7 @@
     {
         private static void Main()
         {
-            Console.WriteLine("Простой секундомер");
+            Console.WriteLine("Это простой секундомер");
             var start = new Mechanism();
             start.Start();
         }
