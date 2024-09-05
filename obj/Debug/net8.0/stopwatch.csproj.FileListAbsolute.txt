@@ -1,0 +1,14 @@
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/obj/Debug/net8.0/stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/obj/Debug/net8.0/stopwatch.AssemblyInfoInputs.cache
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/obj/Debug/net8.0/stopwatch.AssemblyInfo.cs
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/obj/Debug/net8.0/stopwatch.csproj.CoreCompileInputs.cache
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/bin/Debug/net8.0/stopwatch
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/bin/Debug/net8.0/stopwatch.deps.json
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/bin/Debug/net8.0/stopwatch.runtimeconfig.json
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/bin/Debug/net8.0/stopwatch.dll
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/bin/Debug/net8.0/stopwatch.pdb
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/obj/Debug/net8.0/stopwatch.dll
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/obj/Debug/net8.0/refint/stopwatch.dll
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/obj/Debug/net8.0/stopwatch.pdb
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/obj/Debug/net8.0/stopwatch.genruntimeconfig.cache
+/Users/semyoniuditskii/Desktop/My repository/stopwatch/stopwatch/obj/Debug/net8.0/ref/stopwatch.dll
